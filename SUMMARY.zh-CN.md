@@ -6,6 +6,7 @@
 
 # DevOps
 
+* [Visual Studio Code 云端版](coder/code-server.md)
 * [Gitea - 源码管理](gitea/x1.md)
 * [VIX - VIM Plus 开发工具](vix/x1.md)
 
@@ -18,7 +19,7 @@
 
 # Runtime
 
-* [默认内置 C,CPP,Python,Ruby,Nodejs,Perl](runtime/box.md)
+* [系统内置 C,CPP,Python,Ruby,Nodejs,Perl](runtime/box.md)
 * [Java](java/jre-v18.md)
 * [Go](go/v115.md)
 * [PHP](php/v74.md)

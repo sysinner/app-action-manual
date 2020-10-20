@@ -184,12 +184,3 @@ zentao-pms 在 Pod 里面提供 web 服务的端口是 8081, 通过部署以后�
 * AppCenter 包含的第三方项目源码统一开放在 [https://github.com/inpack](https://github.com/inpack)
 
 
-> 注: InnerStack PaaS Engine 当前处于 BETA 阶段, 如有问题欢迎联系交流:
->
-> * 邮件 evorui#gmail.com
-> * 腾讯微信 @ruilog
-> * 新浪微博 @ruilog
-
-
-
-

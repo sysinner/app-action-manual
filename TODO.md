@@ -5,8 +5,6 @@
 
 # DevOps
 
-* [Visual Studio Code 云端版](coder/code-server.md)
-
 
 # Database
 

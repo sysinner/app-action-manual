@@ -122,11 +122,3 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.151-b12, mixed mode)
 * AppCenter 包含的第三方项目源码统一开放在 [https://github.com/inpack](https://github.com/inpack)
 
 
-> 注: InnerStack PaaS Engine 当前处于 BETA 阶段, 如有问题欢迎联系交流:
->
-> * 邮件 evorui#gmail.com
-> * 腾讯微信 @ruilog
-> * 新浪微博 @ruilog
-
-
-
