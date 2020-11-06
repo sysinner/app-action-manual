@@ -21,7 +21,7 @@
 
 * [系统内置 C,CPP,Python,Ruby,Nodejs,Perl](runtime/box.md)
 * [Java](java/jre-v18.md)
-* [Go](go/v115.md)
+* [Go](go/v1.md)
 * [PHP](php/v74.md)
 
 

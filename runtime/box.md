@@ -42,6 +42,6 @@ InnerStack 当前默认支持 g3, g2 两种容器规格:
 ## 基于 AppSpec 的运行环境支持
 
 * Java [文档详情](java/jre-v18.md)
-* Go [文档详情](go/v115.md)
+* Go [文档详情](go/v1.md)
 * PHP [文档详情](php/v74.md)
 
