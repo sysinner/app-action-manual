@@ -75,7 +75,7 @@ AppSpec 通过登录 InnerStack inPanel 可视化 WebUI 管理 (https://ip-addre
 将上面导出的 https://github.com/inpack/php.git 项目根目录 app-spec-x1.toml 文件内容复制到提交框并提交, 如下图:
 
 
-![app-new](zentao-pms/assets/app-spec-edit-a.cmp.png)
+![app-new](zentao/assets/app-spec-edit-a.cmp.png)
 
 
 
@@ -88,7 +88,7 @@ AppSpec 通过登录 InnerStack inPanel 可视化 WebUI 管理 (https://ip-addre
 
 在 AppSpec List 找到 zentao-pms-x1 , 点击 "New Instance", 为应用设置一个名字 
 
-![app-new](zentao-pms/assets/app-new-name.cmp.png)
+![app-new](zentao/assets/app-new-name.cmp.png)
 
 
 ### Step 2: 设置 Pod 容器
@@ -99,14 +99,14 @@ AppSpec 通过登录 InnerStack inPanel 可视化 WebUI 管理 (https://ip-addre
 2. 绑定到已有的 Pod: 一般用于 DevOps 开发，测试，生产环境推荐一个 App 对应一个 Pod.
 
 
-![app-new](zentao-pms/assets/app-new-pod-select.cmp.png)
+![app-new](zentao/assets/app-new-pod-select.cmp.png)
 
 > 注: 不符合硬件规格的 Pod 将不会出现在这个列表里面
 
 
 这里选择新建 Pod Instance, 提示选择 Pod 规格:
 
-![app-new](zentao-pms/assets/app-new-pod-spec.cmp.png)
+![app-new](zentao/assets/app-new-pod-spec.cmp.png)
 
 确认 Pod 信息后继续下一步.
 
@@ -129,7 +129,7 @@ AppSpec 通过登录 InnerStack inPanel 可视化 WebUI 管理 (https://ip-addre
 
 成功后，会自动跳转到 Pod 详情，可以在这个页面里观察 AppSpec 在这个 Pod 里面的执行情况, 请等待一段时间，没有异常的话，Pod 详情页会出现更多有关这个 AppSpec 的信息，如图:
 
-![app-new](zentao-pms/assets/pod-entry.cmp.png)
+![app-new](zentao/assets/pod-entry.cmp.png)
 
 
 ## zentao-pms 后续操作
@@ -142,36 +142,36 @@ zentao-pms 在 Pod 里面提供 web 服务的端口是 8081, 通过部署以后�
 
 ### zentao-pms 1: 应用成功部署后的首页
 
-![app-new](zentao-pms/assets/app-well.cmp.png)
+![app-new](zentao/assets/app-well.cmp.png)
 
 ### zentao-pms 2: 确认运行环境
 
-![app-new](zentao-pms/assets/app-setup-env.cmp.png)
+![app-new](zentao/assets/app-setup-env.cmp.png)
 
 
 ### zentao-pms 3: 确认配置
 
-![app-new](zentao-pms/assets/app-setup-config.cmp.png)
+![app-new](zentao/assets/app-setup-config.cmp.png)
 
 
 ### zentao-pms 4: 确认配置 2
 
-![app-new](zentao-pms/assets/app-setup-config2.cmp.png)
+![app-new](zentao/assets/app-setup-config2.cmp.png)
 
 
 ### zentao-pms 5: 配置基础信息
 
-![app-new](zentao-pms/assets/app-setup-name.cmp.png)
+![app-new](zentao/assets/app-setup-name.cmp.png)
 
 
 ### zentao-pms 6: 登录新系统
 
-![app-new](zentao-pms/assets/app-login.cmp.png)
+![app-new](zentao/assets/app-login.cmp.png)
 
 
 ### zentao-pms 7: 进入系统首页
 
-![app-new](zentao-pms/assets/app-homepage.cmp.png)
+![app-new](zentao/assets/app-homepage.cmp.png)
 
 
 > 注: 更多的操作信息请参考 [https://www.zentao.net](https://www.zentao.net)
