@@ -115,7 +115,7 @@ AppSpec 通过登录 InnerStack inPanel 可视化 WebUI 管理 (https://ip-addre
 
 因为引入依赖 AppSpec/sysinner-mysql-x1 ，这个时候进入 MySQL 配置确认页, 完成对 db_name, db_user, db_auth 等信息确认, 系统后台自动处理并同步配置信息到 Pod/App 运行实例中, 用户可不关注具体细节。点击 "Next" 继续下面操作.
 
-![app-new](mysql/assets/app-new-cfg.cmp.png)
+![app-new](mysql/assets/app-new-n3.cmp.png)
 
 
 ### Step 4: 配置 PHP
