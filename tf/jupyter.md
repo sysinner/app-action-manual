@@ -1,7 +1,7 @@
-## 关于 tensorflow
+## 关于
 
-* [tensorflow](https://tensorflow.org/) 是 google 发布的一个机器学习框架
-* [jupyter notebook](https://jupyter.org/) 是一个支持交互科学计算的在线开发编辑器
+* [tensorflow](https://tensorflow.org/) 是 google 发布的一个工业级机器学习框架
+* [jupyter notebook](https://jupyter.org/) 是一个支持交互科学计算的在线开发工具
 
 
 ## 构建 AppSpec
@@ -81,7 +81,7 @@ jupyter notebook 基于 web 提供 UI，这里需要加入一个密钥配置项�
 
 ## 后续操作
 
-以上对于 InnerStack 的操作已经完成，对于 tensorflow/jupyter 本身而言，它以 web 方式提供用户UI, 在 Pod 里面提供 web 服务的端口是 8888, 通过部署以后，对外的端口映射为 http://81.70.44.120:15009 (在 Pod 详情里面查看), 进入这个地址:
+以上对于 InnerStack 的操作已经完成，对于 tensorflow/jupyter 本身而言，它以 web 方式提供用户UI, 在 Pod 里面提供 web 服务的端口是 8888, 通过部署以后，对外的端口映射为 http://81.70.44.120:15009 (在 Pod 详情里面查看地址和访问密钥), 进入这个地址:
 
 ### tensorflow/jupyter 1: 应用成功部署后的首页
 
