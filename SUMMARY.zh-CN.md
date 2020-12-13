@@ -11,6 +11,9 @@
 * [VIX - VIM Plus 开发工具](vix/x1.md)
 
 
+# AI
+* [Tensorflow/Jupyter](tf/jupyter.md)
+
 # Database
 
 * [MySQL](mysql/v57-x1.md)
